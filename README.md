@@ -1,17 +1,41 @@
-# Book Store Inventory - SQL Mini Project
+# Projects in this Repository:
 
-This is a beginner-level SQL project where I created and managed a book store database using SQLite.
+## Book Store Inventory
 
-## Features
+Objective: To manage a book store’s inventory system, tracking books by title, author, price, stock, and genre.
 
-- Created a `books` table with fields like title, author, price, stock, and genre.
-- Inserted sample records into the table.
-- Performed various SQL queries such as:
-  - Viewing all books
-  - Filtering books by price, genre, author
-  - Sorting by price and stock
-  - Selecting top 3 expensive books
-  - Finding books in a price range
+Key SQL Concepts:
+
+CREATE TABLE, INSERT INTO
+
+Filtering with WHERE
+
+Sorting with ORDER BY
+
+Limiting results with LIMIT
+
+Using BETWEEN for range queries
+
+Advanced filtering and sorting
+
+
+
+
+---
+
+## Movies Inventory
+
+Objective: Manage movie data for a fictional movie inventory system, including details like movie title, director, release year, genre, rating, and reviews.
+
+Key SQL Concepts:
+
+CREATE TABLE, INSERT INTO
+
+Filtering data with WHERE
+
+Sorting and limiting results using ORDER BY, LIMIT, and OFFSET
+
+Handling range queries with BETWEEN
 
 ## Tools Used
 
@@ -20,4 +44,4 @@ This is a beginner-level SQL project where I created and managed a book store da
 
 ## Purpose
 
-This mini project is part of my SQL learning journey for Data Science. It helps in practicing real-world database operations and query writing.
+These mini projects are part of my SQL learning journey for Data Science. This helps in practicing real-world database operations and query writing.
