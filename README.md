@@ -23,7 +23,7 @@ Advanced filtering and sorting
 
 ---
 
-## Movies Inventory
+## Movies Database
 
 Objective: Manage movie data for a fictional movie inventory system, including details like movie title, director, release year, genre, rating, and reviews.
 
