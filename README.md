@@ -1,4 +1,5 @@
 # Projects in this Repository:
+A collection of beginner-friendly SQL mini projects built for hands-on learning.
 
 ## Book Store Inventory
 
