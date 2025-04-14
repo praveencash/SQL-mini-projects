@@ -19,7 +19,7 @@ Using BETWEEN for range queries
 
 Advanced filtering and sorting
 
-
+File Name: Book Store Inventory.sql
 
 
 ---
@@ -37,6 +37,8 @@ Filtering data with WHERE
 Sorting and limiting results using ORDER BY, LIMIT, and OFFSET
 
 Handling range queries with BETWEEN
+
+File Name: Movies Database.sql
 
 ## Tools Used
 
